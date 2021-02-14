@@ -1,0 +1,14 @@
+ua/kpi/comsys/mamotenko8212/MainActivity.java
+ ua.kpi.comsys.mamotenko8212.MainActivity
+ua/kpi/comsys/mamotenko8212/ui/home/HomeViewModel.java
+ ua.kpi.comsys.mamotenko8212.ui.home.HomeViewModel
+ua/kpi/comsys/mamotenko8212/ui/home/HomeFragment.java
+ ua.kpi.comsys.mamotenko8212.ui.home.HomeFragment
+ ua.kpi.comsys.mamotenko8212.ui.home.HomeFragment$1
+ua/kpi/comsys/mamotenko8212/ui/dashboard/DashboardViewModel.java
+ ua.kpi.comsys.mamotenko8212.ui.dashboard.DashboardViewModel
+ua/kpi/comsys/mamotenko8212/BuildConfig.java
+ ua.kpi.comsys.mamotenko8212.BuildConfig
+ua/kpi/comsys/mamotenko8212/ui/dashboard/DashboardFragment.java
+ ua.kpi.comsys.mamotenko8212.ui.dashboard.DashboardFragment
+ ua.kpi.comsys.mamotenko8212.ui.dashboard.DashboardFragment$1
